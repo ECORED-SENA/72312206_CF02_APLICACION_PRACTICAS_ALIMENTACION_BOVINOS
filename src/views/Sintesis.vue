@@ -2,14 +2,7 @@
   .curso-main-container.pb-3
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      .row.mb-5
-        .col-12.ps-3(style="border-left: 10px solid #39A900;") 
-          h3.mb-1 Aplicación de prácticas de alimentación en bovinos
-          p.mb-0 
-            | Síntesis:             
-            | manejo integral de la alimentación bovina bajo Buenas Prácticas Ganaderas (BPG) y sostenibilidad productiva
-      p.mt-5 A continuación, se presenta una síntesis de la temática estudiada en el componente formativo.
-
+      p A continuación, se presenta una síntesis de la temática estudiada en el componente formativo.
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad
           figure

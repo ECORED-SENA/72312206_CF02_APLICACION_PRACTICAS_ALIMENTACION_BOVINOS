@@ -35,17 +35,17 @@
           .col-lg-9
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
               .row(titulo="Satisfacer los requerimientos nutricionales")
-                  p.mb-4 Garantizar que los animales reciban los nutrientes necesarios para cubrir las necesidades de mantenimiento, crecimiento, reproducción, gestación, lactancia y producción de carne, favoreciendo la expresión de su potencial genético y mejores resultados productivos.
+                p.mb-4 Garantizar que los animales reciban los nutrientes necesarios para cubrir las necesidades de mantenimiento, crecimiento, reproducción, gestación, lactancia y producción de carne, favoreciendo la expresión de su potencial genético y mejores resultados productivos.
               .row(titulo="Optimizar el uso de los recursos alimenticios")
-                  p.mb-4 Reducir desperdicios y mejorar la eficiencia en el aprovechamiento de forrajes, suplementos y concentrados disponibles en la finca, contribuyendo a disminuir los costos de producción y aumentar la rentabilidad del sistema.
+                p.mb-4 Reducir desperdicios y mejorar la eficiencia en el aprovechamiento de forrajes, suplementos y concentrados disponibles en la finca, contribuyendo a disminuir los costos de producción y aumentar la rentabilidad del sistema.
               .row(titulo="Prevenir problemas nutricionales y sanitarios")
-                  p.mb-4 Evitar alteraciones nutricionales, metabólicas y reproductivas derivadas de dietas deficientes o desbalanceadas, fortaleciendo el sistema inmunológico, reduciendo la incidencia de enfermedades y favoreciendo la longevidad productiva.
+                p.mb-4 Evitar alteraciones nutricionales, metabólicas y reproductivas derivadas de dietas deficientes o desbalanceadas, fortaleciendo el sistema inmunológico, reduciendo la incidencia de enfermedades y favoreciendo la longevidad productiva.
               .row(titulo="Garantizar el bienestar animal")
-                  p.mb-4 Asegurar que los bovinos permanezcan libres de hambre, sed y malnutrición mediante el acceso permanente a alimento y agua en cantidades suficientes y de buena calidad.
+                p.mb-4 Asegurar que los bovinos permanezcan libres de hambre, sed y malnutrición mediante el acceso permanente a alimento y agua en cantidades suficientes y de buena calidad.
               .row(titulo="Fortalecer la sostenibilidad ambiental")
-                  p.mb-4 Promover prácticas como sistemas silvopastoriles, bancos de proteína, conservación de forrajes, pastoreo racional, uso eficiente del agua, aprovechamiento de subproductos agroindustriales y protección de los recursos naturales.
+                p.mb-4 Promover prácticas como sistemas silvopastoriles, bancos de proteína, conservación de forrajes, pastoreo racional, uso eficiente del agua, aprovechamiento de subproductos agroindustriales y protección de los recursos naturales.
               .row(titulo="Facilitar la toma de decisiones")
-                  p.mb-4 Realizar seguimiento a indicadores productivos, económicos y nutricionales que permitan efectuar ajustes oportunos y mejorar continuamente el sistema de alimentación.
+                p.mb-4 Realizar seguimiento a indicadores productivos, económicos y nutricionales que permitan efectuar ajustes oportunos y mejorar continuamente el sistema de alimentación.
       //- Fin Accordion
       Separador
       //- Inicio Tema5.2
@@ -148,6 +148,7 @@
           p Durante la ejecución del plan es necesario monitorear permanentemente el consumo de alimento y agua, la condición corporal, la producción de leche, la ganancia de peso y los indicadores reproductivos. Esta información permite verificar si los objetivos nutricionales están siendo alcanzados y realizar ajustes oportunos cuando sea necesario.
           p.bg-color-4.p-3 La aplicación también incluye la planificación de reservas alimenticias para épocas críticas mediante la producción de ensilajes, henos y otros alimentos conservados. Esta estrategia resulta especialmente importante en regiones afectadas por periodos prolongados de sequía o variaciones climáticas extremas.
           p.mb-0 Asimismo, los sistemas silvopastoriles y los bancos de proteína constituyen herramientas de gran importancia dentro de los planes de alimentación modernos, debido a que aumentan la disponibilidad de nutrientes, mejoran el bienestar animal mediante la provisión de sombra y contribuyen a la sostenibilidad ambiental de la explotación.
+
 </template>
 
 <script>

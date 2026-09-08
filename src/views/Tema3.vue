@@ -128,22 +128,22 @@
       .row.mb-5.justify-content-center.align-items-start        
         .col-12.col-lg-7.order-2.order-lg-2.bg-color-4(data-aos="fade-right")          
           p.p-3.mb-0 La aplicación de estas medidas contribuye a:
-            ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-0
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Mejorar el bienestar animal.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Incrementar la productividad y la rentabilidad del sistema ganadero.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Reducir enfermedades relacionadas con la alimentación.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Fortalecer el cumplimiento de las buenas prácticas ganaderas en Colombia.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Favorecer la sostenibilidad del sistema productivo.
+          ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-0
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Mejorar el bienestar animal.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Incrementar la productividad y la rentabilidad del sistema ganadero.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Reducir enfermedades relacionadas con la alimentación.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Fortalecer el cumplimiento de las buenas prácticas ganaderas en Colombia.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Favorecer la sostenibilidad del sistema productivo.
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t3/img6.png' style="width: 650px").m-auto                
@@ -218,13 +218,13 @@
           .col-lg-9
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
               .row(titulo="Suficiencia nutricional")
-                  p.mb-4 Todo bovino debe recibir una alimentación suficiente y equilibrada, ajustada a sus requerimientos específicos según la edad, el peso corporal, el estado fisiológico, el nivel de producción, la condición corporal, el estado sanitario y el objetivo productivo. La dieta debe aportar cantidades adecuadas de energía, proteína, fibra, minerales, vitaminas y agua para favorecer el mantenimiento, el crecimiento, la reproducción y la expresión del potencial productivo del animal. Además, debe ajustarse periódicamente de acuerdo con los cambios productivos y las condiciones ambientales de la explotación.
+                p.mb-4 Todo bovino debe recibir una alimentación suficiente y equilibrada, ajustada a sus requerimientos específicos según la edad, el peso corporal, el estado fisiológico, el nivel de producción, la condición corporal, el estado sanitario y el objetivo productivo. La dieta debe aportar cantidades adecuadas de energía, proteína, fibra, minerales, vitaminas y agua para favorecer el mantenimiento, el crecimiento, la reproducción y la expresión del potencial productivo del animal. Además, debe ajustarse periódicamente de acuerdo con los cambios productivos y las condiciones ambientales de la explotación.
               .row(titulo="Calidad nutricional")
-                  p.mb-4 Los alimentos suministrados deben presentar una adecuada composición nutricional, buena digestibilidad y elevada palatabilidad. La eficiencia alimentaria depende no solo de la cantidad de nutrientes presentes, sino también de la capacidad del animal para aprovecharlos. El uso de forrajes de buena calidad, suplementos apropiados y estrategias como la suplementación estratégica, los sistemas silvopastoriles y los bancos de proteína contribuye a mejorar el consumo voluntario, la producción, la fertilidad y la respuesta inmunitaria.
+                p.mb-4 Los alimentos suministrados deben presentar una adecuada composición nutricional, buena digestibilidad y elevada palatabilidad. La eficiencia alimentaria depende no solo de la cantidad de nutrientes presentes, sino también de la capacidad del animal para aprovecharlos. El uso de forrajes de buena calidad, suplementos apropiados y estrategias como la suplementación estratégica, los sistemas silvopastoriles y los bancos de proteína contribuye a mejorar el consumo voluntario, la producción, la fertilidad y la respuesta inmunitaria.
               .row(titulo="Inocuidad alimentaria")
-                  p.mb-4 Los alimentos y el agua deben permanecer libres de contaminantes físicos, químicos y biológicos, como hongos, micotoxinas, bacterias patógenas, metales pesados, residuos de plaguicidas, materiales extraños y otras sustancias tóxicas. Su cumplimiento exige prácticas adecuadas de almacenamiento, conservación y manejo, reduciendo riesgos sanitarios y fortaleciendo la seguridad alimentaria y la salud pública.
+                p.mb-4 Los alimentos y el agua deben permanecer libres de contaminantes físicos, químicos y biológicos, como hongos, micotoxinas, bacterias patógenas, metales pesados, residuos de plaguicidas, materiales extraños y otras sustancias tóxicas. Su cumplimiento exige prácticas adecuadas de almacenamiento, conservación y manejo, reduciendo riesgos sanitarios y fortaleciendo la seguridad alimentaria y la salud pública.
               .row(titulo="Disponibilidad permanente")
-                  p.mb-4 Los bovinos deben disponer de acceso continuo y suficiente al alimento y al agua, de acuerdo con sus necesidades nutricionales y productivas. La restricción alimentaria puede ocasionar estrés, pérdida de condición corporal, disminución del desempeño productivo, alteraciones metabólicas y problemas de comportamiento. Por ello, es indispensable garantizar un acceso equitativo que evite la competencia excesiva y los periodos prolongados sin alimentación o hidratación.
+                p.mb-4 Los bovinos deben disponer de acceso continuo y suficiente al alimento y al agua, de acuerdo con sus necesidades nutricionales y productivas. La restricción alimentaria puede ocasionar estrés, pérdida de condición corporal, disminución del desempeño productivo, alteraciones metabólicas y problemas de comportamiento. Por ello, es indispensable garantizar un acceso equitativo que evite la competencia excesiva y los periodos prolongados sin alimentación o hidratación.
       //- Fin Accordion
       //- Inicio Accordion
       .bg--img_03.mt-5
@@ -232,13 +232,13 @@
           .col-lg-9
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
               .row(titulo="Bienestar animal")
-                  p.mb-4 La alimentación constituye uno de los pilares del bienestar animal, al permitir satisfacer necesidades básicas relacionadas con la ausencia de hambre, sed y malnutrición. Asimismo, debe evitarse la competencia excesiva y el estrés asociado con el consumo. Los comederos y bebederos deben ser suficientes, accesibles y mantenerse en adecuadas condiciones higiénicas. Este principio está respaldado por las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021.
+                p.mb-4 La alimentación constituye uno de los pilares del bienestar animal, al permitir satisfacer necesidades básicas relacionadas con la ausencia de hambre, sed y malnutrición. Asimismo, debe evitarse la competencia excesiva y el estrés asociado con el consumo. Los comederos y bebederos deben ser suficientes, accesibles y mantenerse en adecuadas condiciones higiénicas. Este principio está respaldado por las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021.
               .row(titulo="Sostenibilidad ambiental")
-                  p.mb-4 La producción de alimentos para bovinos debe desarrollarse mediante prácticas orientadas a conservar los recursos naturales y reducir el impacto ambiental. La implementación de sistemas silvopastoriles, bancos de proteína, medidas de conservación de suelos, protección hídrica, uso racional de fertilizantes y aprovechamiento de subproductos favorece la biodiversidad, optimiza el uso del agua y fortalece la resiliencia frente a la variabilidad climática.
+                p.mb-4 La producción de alimentos para bovinos debe desarrollarse mediante prácticas orientadas a conservar los recursos naturales y reducir el impacto ambiental. La implementación de sistemas silvopastoriles, bancos de proteína, medidas de conservación de suelos, protección hídrica, uso racional de fertilizantes y aprovechamiento de subproductos favorece la biodiversidad, optimiza el uso del agua y fortalece la resiliencia frente a la variabilidad climática.
               .row(titulo="Eficiencia productiva")
-                  p.mb-4 La alimentación debe orientarse al aprovechamiento eficiente de los recursos nutricionales y económicos disponibles. Una adecuada planificación contribuye a mejorar la conversión alimenticia, incrementar la producción de leche, favorecer la ganancia de peso, optimizar la fertilidad y fortalecer la rentabilidad del sistema ganadero mediante el seguimiento permanente de los resultados productivos.
+                p.mb-4 La alimentación debe orientarse al aprovechamiento eficiente de los recursos nutricionales y económicos disponibles. Una adecuada planificación contribuye a mejorar la conversión alimenticia, incrementar la producción de leche, favorecer la ganancia de peso, optimizar la fertilidad y fortalecer la rentabilidad del sistema ganadero mediante el seguimiento permanente de los resultados productivos.
               .row(titulo="Trazabilidad")
-                  p.mb-4 Todos los procesos relacionados con la alimentación deben registrarse de forma clara, organizada y verificable. La documentación de la adquisición de insumos, su almacenamiento, preparación y suministro facilita la identificación de fallas, la evaluación de resultados, el cumplimiento de requisitos normativos y el desarrollo de auditorías y certificaciones. Además, fortalece el control sanitario y contribuye a garantizar la inocuidad de los productos de origen animal destinados al consumo humano.
+                p.mb-4 Todos los procesos relacionados con la alimentación deben registrarse de forma clara, organizada y verificable. La documentación de la adquisición de insumos, su almacenamiento, preparación y suministro facilita la identificación de fallas, la evaluación de resultados, el cumplimiento de requisitos normativos y el desarrollo de auditorías y certificaciones. Además, fortalece el control sanitario y contribuye a garantizar la inocuidad de los productos de origen animal destinados al consumo humano.
           .col-lg-3 
             figure(data-aos="zoom-in")
               img(src="@/assets/curso/temas/t3/img8.png", alt="").img400.m-auto                  
@@ -363,7 +363,6 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Además de estas disposiciones, las buenas prácticas de alimentación se articulan con otros instrumentos orientados a fortalecer la sostenibilidad y la calidad de la producción ganadera. Entre ellos se incluyen la legislación sobre inocuidad alimentaria, la normativa ambiental para la protección de los recursos naturales, los programas de sostenibilidad ganadera, los lineamientos sobre bienestar animal, los sistemas de aseguramiento de la calidad, los programas de trazabilidad pecuaria y las directrices relacionadas con la conservación de las fuentes hídricas y el manejo adecuado de residuos.
       p(data-aos="fade-left") El cumplimiento de este marco normativo contribuye a mejorar la competitividad de las explotaciones bovinas, facilita los procesos de certificación, fortalece la confianza del consumidor y promueve una producción responsable, sostenible y alineada con los principios de bienestar animal y buenas prácticas ganaderas.
-      
 
 </template>
 

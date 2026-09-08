@@ -18,7 +18,7 @@
             img(src='@/assets/curso/temas/t2/img2.png' style="width: 650px").m-auto
         .col-12.col-lg-6.order-2.order-lg-1(data-aos="fade-right")
           p.bg-color-5.p-4 Además de su función nutricional, el agua constituye un elemento fundamental para el bienestar animal y la sostenibilidad de los sistemas productivos. El acceso permanente a agua limpia, fresca y de buena calidad contribuye a reducir el estrés térmico, favorecer el consumo de alimento y mejorar el desempeño productivo.          
-          p.p-4.mb-0 En este sentido, las buenas prácticas ganaderas (BPG) y las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021 establecen la obligación de garantizar su disponibilidad continua, así como la protección de las fuentes hídricas. De igual manera, estrategias como los sistemas silvopastoriles, la conservación de cuencas y el uso eficiente del recurso hídrico fortalecen una ganadería más sostenible, rentable y comprometida con el bienestar de los bovinos.
+          p.p-4.mb-0 En este sentido, las buenas prácticas ganaderas (BPG) y las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021 (modificada por la Resolución ICA 16023 de 2023) establecen la obligación de garantizar su disponibilidad continua, así como la protección de las fuentes hídricas. De igual manera, estrategias como los sistemas silvopastoriles, la conservación de cuencas y el uso eficiente del recurso hídrico fortalecen una ganadería más sostenible, rentable y comprometida con el bienestar de los bovinos.
       Separador
       //- Inicio Tema2.1
       .row
@@ -360,34 +360,34 @@
             img(src='@/assets/curso/temas/t2/img4.png' style="width: 650px").m-auto
         .col-12.col-lg-6.order-2.order-lg-1.bg-color-4(data-aos="fade-right")          
           p.p-3.mb-0 Estas cantidades corresponden a valores aproximados y pueden modificarse según las condiciones específicas de cada explotación. Diversos factores influyen sobre el patrón de consumo hídrico de los bovinos, entre ellos:
-            ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Temperatura ambiental
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Humedad relativa
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Radiación solar
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Tipo de dieta
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Contenido de sal en los alimentos
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Nivel productivo
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Estado sanitario
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Disponibilidad de sombra
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Distancia hacia los bebederos
+          ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Temperatura ambiental
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Humedad relativa
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Radiación solar
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Tipo de dieta
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Contenido de sal en los alimentos
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Nivel productivo
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Estado sanitario
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Disponibilidad de sombra
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Distancia hacia los bebederos
       p(data-aos="fade-left") La presencia de árboles en sistemas silvopastoriles contribuye a disminuir el estrés térmico y favorece patrones de consumo más estables, especialmente durante períodos de altas temperaturas.
       Separador
       //- Inicio Tema2.4
@@ -432,32 +432,33 @@
       .row.mb-5.justify-content-center.align-items-start        
         .col-12.col-lg-6.order-2.order-lg-2(data-aos="fade-right")          
           p.p-3.mb-0 En el marco de las buenas prácticas ganaderas (BPG), la gestión del agua debe incorporar procedimientos orientados a la prevención, el control y la sostenibilidad ambiental. Entre las acciones más relevantes se encuentran:
-            ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1.bg-color-4.p-4
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Inventario de fuentes hídricas.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Evaluación periódica de la calidad del agua.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Programas de limpieza de bebederos.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Registros de mantenimiento.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Medidas de protección ambiental.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Planes de contingencia frente a sequías.
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span Protocolos de ahorro y uso eficiente del agua.
+          ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1.bg-color-4.p-4
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Inventario de fuentes hídricas.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Evaluación periódica de la calidad del agua.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Programas de limpieza de bebederos.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Registros de mantenimiento.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Medidas de protección ambiental.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Planes de contingencia frente a sequías.
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span Protocolos de ahorro y uso eficiente del agua.
         .col-12.col-sm-9.col-lg-6.order-1.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t2/img5.png' style="width: 650px").m-auto                
       p(data-aos="fade-left") La adecuada gestión del recurso hídrico favorece la productividad, fortalece la sostenibilidad ambiental, promueve el bienestar animal y contribuye al cumplimiento de la normativa vigente aplicable a la producción bovina en Colombia.
+
 </template>
 
 <script>

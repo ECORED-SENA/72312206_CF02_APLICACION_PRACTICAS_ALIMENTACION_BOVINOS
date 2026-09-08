@@ -69,28 +69,28 @@
             img.img-fluid(src="@/assets/curso/temas/t4/img3.png", alt="", style="max-width: 100%;")      
       .row.mb-5.justify-content-center.align-items-start        
         .col-12.col-lg-7.order-2.order-lg-2(data-aos="fade-right")
-            ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1.bg-color-4.p-4
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Claridad:</b> facilita la interpretación y consulta de la información registrada. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Exactitud:</b> garantiza que los datos consignados correspondan a la realidad observada. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Oportunidad:</b> favorece el registro inmediato de las actividades, reduciendo omisiones. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Continuidad:</b> permite realizar seguimiento histórico a los animales y a la explotación. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Verificabilidad:</b> posibilita comprobar la información mediante soportes y evidencias. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Trazabilidad:</b> facilita conocer el historial de alimentación y producción de cada lote o animal. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Utilidad técnica:</b> genera información relevante para evaluar la eficiencia alimenticia, productiva y económica del sistema.
+          ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1.bg-color-4.p-4
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Claridad:</b> facilita la interpretación y consulta de la información registrada. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Exactitud:</b> garantiza que los datos consignados correspondan a la realidad observada. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Oportunidad:</b> favorece el registro inmediato de las actividades, reduciendo omisiones. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Continuidad:</b> permite realizar seguimiento histórico a los animales y a la explotación. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Verificabilidad:</b> posibilita comprobar la información mediante soportes y evidencias. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Trazabilidad:</b> facilita conocer el historial de alimentación y producción de cada lote o animal. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Utilidad técnica:</b> genera información relevante para evaluar la eficiencia alimenticia, productiva y económica del sistema.
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t4/img4.png' style="width: 650px").m-auto                            

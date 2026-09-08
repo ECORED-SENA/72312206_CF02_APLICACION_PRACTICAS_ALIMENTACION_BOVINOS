@@ -44,34 +44,34 @@
             img(src='@/assets/curso/temas/t7/img4.png' style="width: 650px").m-auto
         .col-12.col-lg-6.order-2.order-lg-1.bg-color-2.p-3(data-aos="fade-right")          
           p.mb-0 El cumplimiento normativo hace referencia a la adherencia de la explotación bovina a las disposiciones legales y técnicas establecidas para la implementación de las buenas prácticas ganaderas. La evaluación contempla la revisión de aspectos como:
-            ul.lista-ul.color-vinotinto-custom.mb-0
-              li.d-flex.mt-3
-                .fas.fa-carrot.me-2
-                span Registros y procedimientos documentados. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Infraestructura y condiciones de higiene. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Manejo de insumos
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Bioseguridad
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Alimentación animal
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Manejo sanitario
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Bienestar animal
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Trazabilidad
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Sostenibilidad ambiental
+          ul.lista-ul.color-vinotinto-custom.mb-0
+            li.d-flex.mt-3
+              .fas.fa-carrot.me-2
+              span Registros y procedimientos documentados. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Infraestructura y condiciones de higiene. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Manejo de insumos
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Bioseguridad
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Alimentación animal
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Manejo sanitario
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Bienestar animal
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Trazabilidad
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Sostenibilidad ambiental
       p(data-aos="fade-left") Igualmente, se comprueba que el sistema productivo respete principios fundamentales de bienestar animal, como el acceso permanente a alimento y agua, la reducción de factores de estrés y la provisión de condiciones adecuadas de manejo.
       .row.mb-5.justify-content-center.align-items-start
         .col-12.col-sm-9.col-lg-6.order-1.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
@@ -79,28 +79,28 @@
             img(src='@/assets/curso/temas/t7/img5.png' style="width: 650px").m-auto
         .col-12.col-lg-6.order-2.order-lg-2.bg-color-6.p-3(data-aos="fade-right")          
           p.mb-0 Como parte de este proceso, se realiza la revisión técnica y sistemática de las actividades relacionadas con la alimentación bovina para confirmar que se ejecutan conforme a los protocolos establecidos. Entre los procedimientos evaluados se encuentran:
-            ul.lista-ul.color-vinotinto-custom.mb-0
-              li.d-flex.mt-3
-                .fas.fa-carrot.me-2
-                span Recepción de alimentos. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Almacenamiento y conservación. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Preparación de raciones. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Distribución del alimento. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Suministro de agua. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Limpieza de instalaciones. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span Revisión de registros de consumo, inventarios, suplementación y producción.
+          ul.lista-ul.color-vinotinto-custom.mb-0
+            li.d-flex.mt-3
+              .fas.fa-carrot.me-2
+              span Recepción de alimentos. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Almacenamiento y conservación. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Preparación de raciones. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Distribución del alimento. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Suministro de agua. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Limpieza de instalaciones. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span Revisión de registros de consumo, inventarios, suplementación y producción.
       p(data-aos="fade-left") Esta verificación es fundamental para garantizar uniformidad en el manejo, reducir errores operativos y confirmar que las prácticas implementadas contribuyen efectivamente al bienestar animal y a la eficiencia productiva. El cumplimiento de estos requisitos favorece los procesos de certificación en BPG, fortalece la confianza del consumidor y contribuye a garantizar la inocuidad y sostenibilidad del sistema ganadero.
       Separador
       //- Inicio Tema7.3
@@ -252,25 +252,25 @@
             img(src='@/assets/curso/temas/t7/img7.png' style="width: 485px").m-auto
         .col-12.col-lg-7.order-2.order-lg-1.bg-color-4.p-4(data-aos="fade-right")          
           p.mb-0 Entre las contingencias más frecuentes se encuentran las sequías, inundaciones, escasez de forrajes, contaminación de alimentos, fallas en el suministro de agua, brotes de enfermedades y fluctuaciones en los costos de los insumos. Para minimizar sus efectos, deben establecerse protocolos de actuación previamente definidos: 
-            ul.lista-ul.color-vinotinto-custom.mb-0
-              li.d-flex.mt-3
-                .fas.fa-carrot.me-2
-                span <b>Escasez de forrajes:</b> uso de reservas alimenticias, ensilajes y henos. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span <b>Sequías prolongadas:</b> activación de bancos de proteína y suplementación estratégica. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span <b>Contaminación de alimentos o agua:</b> suspensión del suministro y evaluación inmediata de la fuente afectada. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span <b>Brotes de enfermedades:</b> aislamiento de animales afectados y fortalecimiento de la bioseguridad. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span <b>Limitaciones en el abastecimiento hídrico:</b> aplicación de planes de contingencia y uso eficiente del agua. 
-              li.d-flex
-                .fas.fa-carrot.me-2
-                span <b>Incremento en los costos de los insumos:</b> ajuste técnico de las dietas y aprovechamiento de recursos locales.
+          ul.lista-ul.color-vinotinto-custom.mb-0
+            li.d-flex.mt-3
+              .fas.fa-carrot.me-2
+              span <b>Escasez de forrajes:</b> uso de reservas alimenticias, ensilajes y henos. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span <b>Sequías prolongadas:</b> activación de bancos de proteína y suplementación estratégica. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span <b>Contaminación de alimentos o agua:</b> suspensión del suministro y evaluación inmediata de la fuente afectada. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span <b>Brotes de enfermedades:</b> aislamiento de animales afectados y fortalecimiento de la bioseguridad. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span <b>Limitaciones en el abastecimiento hídrico:</b> aplicación de planes de contingencia y uso eficiente del agua. 
+            li.d-flex
+              .fas.fa-carrot.me-2
+              span <b>Incremento en los costos de los insumos:</b> ajuste técnico de las dietas y aprovechamiento de recursos locales.
       p(data-aos="fade-left") La aplicación oportuna de estos protocolos reduce pérdidas productivas, fortalece la resiliencia del sistema y protege el bienestar de los animales.
       Separador
       //- Inicio Tema7.6

@@ -258,28 +258,28 @@
             img(src='@/assets/curso/temas/t6/img10.png' style="width: 470px").m-auto
         .col-12.col-lg-7.order-2.order-lg-1.bg-color-6.p-4(data-aos="fade-right")          
           p.mb-0 Con el fin de facilitar la toma de decisiones, se presentan algunas situaciones frecuentes y las medidas que pueden implementarse para corregirlas oportunamente: 
-            ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1
-              li.d-flex.mt-3
-                .fas.fa-carrot.me-3
-                span <b>Bajo consumo de alimento:</b> revisar la calidad del forraje y ajustar la dieta suministrada. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Pérdida de peso:</b> evaluar posibles deficiencias nutricionales e incrementar la suplementación cuando sea necesario. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Baja producción de leche:</b> reformular las raciones para corregir desequilibrios energéticos o proteicos. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Deterioro de la condición corporal:</b> incrementar la oferta alimenticia y revisar el acceso al alimento. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Desperdicio de alimento:</b> mejorar el manejo y diseño de los comederos. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Bajo consumo de agua:</b> verificar la calidad del agua y las condiciones de acceso a los bebederos. 
-              li.d-flex
-                .fas.fa-carrot.me-3
-                span <b>Estrés térmico:</b> implementar estrategias de mitigación, como sistemas silvopastoriles que proporcionen sombra y confort.
+          ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1
+            li.d-flex.mt-3
+              .fas.fa-carrot.me-3
+              span <b>Bajo consumo de alimento:</b> revisar la calidad del forraje y ajustar la dieta suministrada. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Pérdida de peso:</b> evaluar posibles deficiencias nutricionales e incrementar la suplementación cuando sea necesario. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Baja producción de leche:</b> reformular las raciones para corregir desequilibrios energéticos o proteicos. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Deterioro de la condición corporal:</b> incrementar la oferta alimenticia y revisar el acceso al alimento. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Desperdicio de alimento:</b> mejorar el manejo y diseño de los comederos. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Bajo consumo de agua:</b> verificar la calidad del agua y las condiciones de acceso a los bebederos. 
+            li.d-flex
+              .fas.fa-carrot.me-3
+              span <b>Estrés térmico:</b> implementar estrategias de mitigación, como sistemas silvopastoriles que proporcionen sombra y confort.
       p(data-aos="fade-left") La información derivada del control de procesos permite ajustar oportunamente los programas de alimentación, optimizar el uso de los recursos disponibles y fortalecer la productividad, el bienestar animal y la sostenibilidad de los sistemas bovinos.
 </template>
 
@@ -303,4 +303,3 @@ export default {
 </script>
 
 <style lang="sass"></style>
-
